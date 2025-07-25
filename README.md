@@ -4,13 +4,18 @@
 ## Screenshots
 ### Imported FMU
 VanDerPol FMU after import. Screenshot of BlockDiagram.
-![VanDerPol FMU after Import. Screenshot of BlockDiagram](media/VanDerPolBlockDiagram.png)
+<p align="left">
+  <img src="media/VanDerPolBlockDiagram.png" alt="Beispielbild" />
+</p>
+
 ### BouncingBall FMU with 3D Simulation
 GIF of Bouncingball visualized with a simple 3D Simulation in ISG-virtuos
 ![GIF of Bouncingball visualized with a simple 3D Simulation in ISG-virtuos](media/BouncingBall3D.gif)
+
 ### VanDerPol FMU recoded with Scope
 VanDerPol FMU, screenshot of scoped Outputs in ISG-virtuos
 ![VanDerPol FMU, screenshot of scoped Outputs in ISG-virtuos](media/VanDerPolScope.png)
+
 # FMU Import compatibility for ISG-virtuos
 The compatibility of ISG-virtuos is testet with following FMUs.
 
